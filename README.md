@@ -4,9 +4,10 @@ A simple Python program to manage a to-do list from the terminal. Data is saved 
 
 ## How to Use
 
-1. Run `todo.py` with Python 3
-2. Follow the menu to add, remove, or view tasks
-3. Tasks are automatically saved when exiting
+1. Open the CMD in `to-do-list-py-main`
+2. Run `python .\todo` in the CMD
+3. Follow the menu to add, remove, or view tasks
+4. Tasks are automatically saved when exiting
 
 ## Requirements
 
