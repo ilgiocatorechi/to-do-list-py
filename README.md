@@ -11,4 +11,4 @@ A simple Python program to manage a to-do list from the terminal. Data is saved 
 
 ## Requirements
 
-- Python 3 installed
+- [Python 3 installed](https://www.python.org/downloads/)
