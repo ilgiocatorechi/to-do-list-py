@@ -9,6 +9,10 @@ A simple Python program to manage a to-do list from the terminal. Data is saved 
 3. Follow the menu to add, remove, or view tasks
 4. Tasks are automatically saved when exiting
 
+## Localizations
+
+[Italian](https://github.com/ilgiocatorechi/to-do-list-py-ita)
+
 ## Requirements
 
 - [Python 3 installed](https://www.python.org/downloads/)
